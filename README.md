@@ -1,6 +1,6 @@
 <picture>
   <source
-    srcset="https://github-readme-stats-five-lilac-15.vercel.app/api?username=TresSims&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats-five-lilac-15.vercel.app/api?username=TresSims&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
   <source
